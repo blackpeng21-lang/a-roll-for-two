@@ -1,0 +1,218 @@
+[
+  {
+    "file": "index.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "index.html",
+    "script": 1,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "content.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "roll-link.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "tray.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "lib/three.module.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "lib/GLTFLoader.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "lib/BufferGeometryUtils.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/opening.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/frame-c.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/frame-e.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/rolls.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/torch-comic.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/book-cover.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "scene/credits.html",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-book.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-candle.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-card.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-collage.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-compass.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-desk.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-letters.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-libcard.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-map.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-pages.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-petals.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-popup.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-read.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-reel.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-tex.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/bc-turn.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/tray-lt.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/tray-lt-dive.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/tray-lt-flow.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/zh.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  },
+  {
+    "file": "bc/pola.js",
+    "script": 0,
+    "pass": true,
+    "error": ""
+  }
+]

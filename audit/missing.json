@@ -1,0 +1,793 @@
+{
+  "dj2.mp3": [
+    "scene/frame-c.html"
+  ],
+  "font/CourierPrime-italic.woff2": [
+    "scene/torch-comic.html"
+  ],
+  "font/LXGWWenKai-3500.woff2": [
+    "roll-link.js",
+    "scene/book-cover.html"
+  ],
+  "font/NotoSerifSC-Bold-3500.woff2": [
+    "scene/book-cover.html"
+  ],
+  "font/zh/122/g/122-3ac3fc36e299.woff2": [
+    "dynamic path expansion"
+  ],
+  "font/zh/122/result.css": [
+    "bc/zh.js",
+    "dynamic path expansion"
+  ],
+  "font/zh/122/roll.css": [
+    "dynamic path expansion"
+  ],
+  "font/zh/802/g/802-3ac3fc36e299.woff2": [
+    "dynamic path expansion"
+  ],
+  "font/zh/802/result.css": [
+    "bc/zh.js",
+    "dynamic path expansion"
+  ],
+  "font/zh/802/roll.css": [
+    "dynamic path expansion"
+  ],
+  "font/zh/943/g/943-3ac3fc36e299.woff2": [
+    "dynamic path expansion"
+  ],
+  "font/zh/943/result.css": [
+    "bc/zh.js",
+    "dynamic path expansion"
+  ],
+  "font/zh/943/roll.css": [
+    "dynamic path expansion"
+  ],
+  "goodnight.mp3": [
+    "scene/credits.html"
+  ],
+  "img/collage/bfly-brown.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/bfly-orange.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/bfly-yellow.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/filmad.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/greyhound.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/news.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/seventh-heaven.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/stamp-ca.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/stamp-ct.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/collage/stamp-mi.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/daisy/daisy-pressed.webp": [
+    "bc/bc-petals.js",
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/daisy/daisy-sprig.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/daisy/fmn-pressed.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/desk-comic2.webp": [
+    "scene/torch-comic.html"
+  ],
+  "img/feather.jpg": [
+    "bc/bc-desk.js",
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/fx/flame_02.png": [
+    "dynamic path expansion",
+    "index.html"
+  ],
+  "img/fx/flame_05.png": [
+    "dynamic path expansion",
+    "index.html"
+  ],
+  "img/fx/flame_06.png": [
+    "dynamic path expansion",
+    "index.html"
+  ],
+  "img/fx/scorch_03.png": [
+    "bc/bc-compass.js",
+    "dynamic path expansion"
+  ],
+  "img/fx/smoke_01.png": [
+    "dynamic path expansion",
+    "index.html"
+  ],
+  "img/fx/smoke_02.png": [
+    "dynamic path expansion",
+    "index.html"
+  ],
+  "img/kraft.jpg": [
+    "scene/frame-e.html"
+  ],
+  "img/library/card-1916.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/library/notice-paper.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/library/notice-print.png": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/library/pocket-1959.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/library/stamper.webp": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/map-china-1910.jpg": [
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/p1005.jpg": [
+    "content.js (template)"
+  ],
+  "img/p1011.jpg": [
+    "content.js (template)"
+  ],
+  "img/p1027.jpg": [
+    "content.js (template)"
+  ],
+  "img/p1062.jpg": [
+    "content.js (template)"
+  ],
+  "img/p129.jpg": [
+    "content.js",
+    "content.js (template)"
+  ],
+  "img/plaster.jpg": [
+    "scene/frame-c.html"
+  ],
+  "img/radio.jpg": [
+    "scene/frame-c.html"
+  ],
+  "img/reel/libreel.mp4": [
+    "bc/bc-reel.js",
+    "index.html",
+    "scene/book-cover.html"
+  ],
+  "img/t/p1005.webp": [
+    "content.js (template)"
+  ],
+  "img/t/p1011.webp": [
+    "content.js (template)"
+  ],
+  "img/t/p1027.webp": [
+    "content.js (template)"
+  ],
+  "img/t/p1062.webp": [
+    "content.js (template)"
+  ],
+  "img/t/p129.webp": [
+    "content.js (template)"
+  ],
+  "music/comfort.mp3": [
+    "index.html"
+  ],
+  "music/liebestraum.mp3": [
+    "index.html"
+  ],
+  "music/satie.mp3": [
+    "index.html"
+  ],
+  "music/sweetheart.mp3": [
+    "index.html"
+  ],
+  "r.css": [
+    "roll-link.js"
+  ],
+  "result.css": [
+    "roll-link.js"
+  ],
+  "roll.css": [
+    "roll-link.js"
+  ],
+  "roll.html": [
+    "bc/zh.js",
+    "roll-link.js"
+  ],
+  "s.css": [
+    "roll-link.js"
+  ],
+  "sfx/rip.mp3": [
+    "scene/frame-e.html"
+  ],
+  "sfx/typewriter1.mp3": [
+    "dynamic path expansion"
+  ],
+  "sfx/typewriter2.mp3": [
+    "dynamic path expansion"
+  ],
+  "sfx/typewriter3.mp3": [
+    "dynamic path expansion"
+  ],
+  "static.wav": [
+    "scene/frame-c.html"
+  ],
+  "style.css": [
+    "bc/bc-read.js",
+    "index.html",
+    "roll-link.js",
+    "scene/frame-e.html",
+    "tray.html"
+  ],
+  "three.js": [
+    "content.js",
+    "index.html"
+  ],
+  "u/027da6d00ee67f60-t.webp": [
+    "content.js"
+  ],
+  "u/027da6d00ee67f60.webp": [
+    "content.js"
+  ],
+  "u/06a89cb314157a6b-t.webp": [
+    "content.js"
+  ],
+  "u/06a89cb314157a6b.webp": [
+    "content.js"
+  ],
+  "u/0757a5c60b4789f4-t.webp": [
+    "content.js"
+  ],
+  "u/0757a5c60b4789f4.webp": [
+    "content.js"
+  ],
+  "u/077d4cea8f24ee45-t.webp": [
+    "content.js"
+  ],
+  "u/077d4cea8f24ee45.webp": [
+    "content.js"
+  ],
+  "u/07da367b2b878de9-t.webp": [
+    "content.js"
+  ],
+  "u/07da367b2b878de9.webp": [
+    "content.js"
+  ],
+  "u/08a5ef015d22472b-t.webp": [
+    "content.js"
+  ],
+  "u/08a5ef015d22472b.webp": [
+    "content.js"
+  ],
+  "u/09aa43b340b97e49-t.webp": [
+    "content.js"
+  ],
+  "u/09aa43b340b97e49.webp": [
+    "content.js"
+  ],
+  "u/0a286ac4a415e38a.jpg": [
+    "content.js"
+  ],
+  "u/0af4d61d37f56eab-t.webp": [
+    "content.js"
+  ],
+  "u/0af4d61d37f56eab.webp": [
+    "content.js"
+  ],
+  "u/0d820561c6ba7fea-t.webp": [
+    "content.js"
+  ],
+  "u/0d820561c6ba7fea.webp": [
+    "content.js"
+  ],
+  "u/0eba9052b26ceadf-t.webp": [
+    "content.js"
+  ],
+  "u/0eba9052b26ceadf.webp": [
+    "content.js"
+  ],
+  "u/100c14dbdf7f914a.jpg": [
+    "content.js"
+  ],
+  "u/108083a732748d95-t.webp": [
+    "content.js"
+  ],
+  "u/108083a732748d95.webp": [
+    "content.js"
+  ],
+  "u/10ca7ec397fefc3c-t.webp": [
+    "content.js"
+  ],
+  "u/10ca7ec397fefc3c.webp": [
+    "content.js"
+  ],
+  "u/11c5f62a6917dede-t.webp": [
+    "content.js"
+  ],
+  "u/11c5f62a6917dede.webp": [
+    "content.js"
+  ],
+  "u/16f7ab8c99a59728.jpg": [
+    "content.js"
+  ],
+  "u/1893aff51ce1aa27-t.webp": [
+    "content.js"
+  ],
+  "u/1893aff51ce1aa27.webp": [
+    "content.js"
+  ],
+  "u/18d2c426cd90acfa-t.webp": [
+    "content.js"
+  ],
+  "u/18d2c426cd90acfa.webp": [
+    "content.js"
+  ],
+  "u/18dba77e695c6da2.jpg": [
+    "content.js"
+  ],
+  "u/22a3bd2d08e91030.webp": [
+    "content.js"
+  ],
+  "u/29c3eca2d966245a.jpg": [
+    "content.js"
+  ],
+  "u/2a31e2b1182868bb-t.webp": [
+    "content.js"
+  ],
+  "u/2a31e2b1182868bb.webp": [
+    "content.js"
+  ],
+  "u/2eb2e6b47f8f8e63-t.webp": [
+    "content.js"
+  ],
+  "u/2eb2e6b47f8f8e63.webp": [
+    "content.js"
+  ],
+  "u/336338ee0d82455a.jpg": [
+    "content.js"
+  ],
+  "u/33ff13e113559215.webp": [
+    "content.js"
+  ],
+  "u/357e8932e1da3433-t.webp": [
+    "content.js"
+  ],
+  "u/357e8932e1da3433.webp": [
+    "content.js"
+  ],
+  "u/363b620f898ab297.webp": [
+    "content.js"
+  ],
+  "u/36bd70aabe907360.jpg": [
+    "content.js"
+  ],
+  "u/37030485e14f7953-t.webp": [
+    "content.js"
+  ],
+  "u/37030485e14f7953.webp": [
+    "content.js"
+  ],
+  "u/3bce508e8d3645ab.jpg": [
+    "content.js"
+  ],
+  "u/41569d1e513eae51-t.webp": [
+    "content.js"
+  ],
+  "u/41569d1e513eae51.webp": [
+    "content.js"
+  ],
+  "u/44bd942e7296e4a7-t.webp": [
+    "content.js"
+  ],
+  "u/44bd942e7296e4a7.webp": [
+    "content.js"
+  ],
+  "u/455d6e69e9eff8b4-t.webp": [
+    "content.js"
+  ],
+  "u/455d6e69e9eff8b4.webp": [
+    "content.js"
+  ],
+  "u/46e29bda8dd97843.jpg": [
+    "content.js"
+  ],
+  "u/48a4c50c8199adc4.jpg": [
+    "content.js"
+  ],
+  "u/4bf070f52ce948ea-t.webp": [
+    "content.js"
+  ],
+  "u/4bf070f52ce948ea.webp": [
+    "content.js"
+  ],
+  "u/4c86cc3e2a99e8c0-t.webp": [
+    "content.js"
+  ],
+  "u/4c86cc3e2a99e8c0.webp": [
+    "content.js"
+  ],
+  "u/4d8e27963079530d.webp": [
+    "content.js"
+  ],
+  "u/4f28d22af0635719-t.webp": [
+    "content.js"
+  ],
+  "u/4f28d22af0635719.webp": [
+    "content.js"
+  ],
+  "u/503f20b24e85cdb1-t.webp": [
+    "content.js"
+  ],
+  "u/503f20b24e85cdb1.webp": [
+    "content.js"
+  ],
+  "u/5098e217b2c6d699-t.webp": [
+    "content.js"
+  ],
+  "u/5098e217b2c6d699.webp": [
+    "content.js"
+  ],
+  "u/522eb79056267cf1-t.webp": [
+    "content.js"
+  ],
+  "u/522eb79056267cf1.webp": [
+    "content.js"
+  ],
+  "u/56ae64f1478540d1.jpg": [
+    "content.js"
+  ],
+  "u/580cbd718a7bd637-t.webp": [
+    "content.js"
+  ],
+  "u/580cbd718a7bd637.webp": [
+    "content.js"
+  ],
+  "u/5a5ac358f4ab13d1-t.webp": [
+    "content.js"
+  ],
+  "u/5a5ac358f4ab13d1.webp": [
+    "content.js"
+  ],
+  "u/5f422561870b68e6.jpg": [
+    "content.js"
+  ],
+  "u/5fce4d59610b034e.jpg": [
+    "content.js"
+  ],
+  "u/635795bf026fda0a-t.webp": [
+    "content.js"
+  ],
+  "u/635795bf026fda0a.webp": [
+    "content.js"
+  ],
+  "u/6362199f0b9718b0-t.webp": [
+    "content.js"
+  ],
+  "u/6362199f0b9718b0.webp": [
+    "content.js"
+  ],
+  "u/645ca6e5af4a8c69-t.webp": [
+    "content.js"
+  ],
+  "u/645ca6e5af4a8c69.webp": [
+    "content.js"
+  ],
+  "u/68b56a9b993c2df8.webp": [
+    "content.js"
+  ],
+  "u/69f3522e9105d063-t.webp": [
+    "content.js"
+  ],
+  "u/69f3522e9105d063.webp": [
+    "content.js"
+  ],
+  "u/6ac05ed89aa2c7cf.webp": [
+    "content.js"
+  ],
+  "u/6c7d7db6801e99f4-t.webp": [
+    "content.js"
+  ],
+  "u/6c7d7db6801e99f4.webp": [
+    "content.js"
+  ],
+  "u/6e98a66b611088f4-t.webp": [
+    "content.js"
+  ],
+  "u/6e98a66b611088f4.webp": [
+    "content.js"
+  ],
+  "u/711099dd037ef1c3.jpg": [
+    "content.js"
+  ],
+  "u/713f95bd7482fdfa.jpg": [
+    "content.js"
+  ],
+  "u/72c406afdc15ea09-t.webp": [
+    "content.js"
+  ],
+  "u/72c406afdc15ea09.webp": [
+    "content.js"
+  ],
+  "u/76cb3b9170707bf0.jpg": [
+    "content.js"
+  ],
+  "u/793db7475d2cdc98.webp": [
+    "content.js"
+  ],
+  "u/7b99aaeef73b2d03.jpg": [
+    "content.js"
+  ],
+  "u/7f92242dfe50e3b6.webp": [
+    "content.js"
+  ],
+  "u/8278f01076e0b4aa.webp": [
+    "content.js"
+  ],
+  "u/85052a9603482596.jpg": [
+    "content.js"
+  ],
+  "u/88afc40828c4d9ec.webp": [
+    "content.js"
+  ],
+  "u/8b67199989d9fc73-t.webp": [
+    "content.js"
+  ],
+  "u/8b67199989d9fc73.webp": [
+    "content.js"
+  ],
+  "u/8e1ecde0f4d6e7fb.webp": [
+    "content.js"
+  ],
+  "u/975b23eed65a1232.jpg": [
+    "content.js"
+  ],
+  "u/976731fff7dd5c9e-t.webp": [
+    "content.js"
+  ],
+  "u/976731fff7dd5c9e.webp": [
+    "content.js"
+  ],
+  "u/9856b7ebac0024bd-t.webp": [
+    "content.js"
+  ],
+  "u/9856b7ebac0024bd.webp": [
+    "content.js"
+  ],
+  "u/9ca998adeee2d3a5-t.webp": [
+    "content.js"
+  ],
+  "u/9ca998adeee2d3a5.webp": [
+    "content.js"
+  ],
+  "u/9d23ff0d750a695e-t.webp": [
+    "content.js"
+  ],
+  "u/9d23ff0d750a695e.webp": [
+    "content.js"
+  ],
+  "u/a0815ee70558033a-t.webp": [
+    "content.js"
+  ],
+  "u/a0815ee70558033a.webp": [
+    "content.js"
+  ],
+  "u/a1d7f1b2670d0a16.jpg": [
+    "content.js"
+  ],
+  "u/a28002e67a707288-t.webp": [
+    "content.js"
+  ],
+  "u/a28002e67a707288.webp": [
+    "content.js"
+  ],
+  "u/a39e74ebe70f7838-t.webp": [
+    "content.js"
+  ],
+  "u/a39e74ebe70f7838.webp": [
+    "content.js"
+  ],
+  "u/a7b4d9d6c4c4184e-t.webp": [
+    "content.js"
+  ],
+  "u/a7b4d9d6c4c4184e.webp": [
+    "content.js"
+  ],
+  "u/a7f1441abf1c4668-t.webp": [
+    "content.js"
+  ],
+  "u/a7f1441abf1c4668.webp": [
+    "content.js"
+  ],
+  "u/a86beb1ce46557a4-t.webp": [
+    "content.js"
+  ],
+  "u/a86beb1ce46557a4.webp": [
+    "content.js"
+  ],
+  "u/a98a56de8b948da6-t.webp": [
+    "content.js"
+  ],
+  "u/a98a56de8b948da6.webp": [
+    "content.js"
+  ],
+  "u/a9ec89555ad4f1a0-t.webp": [
+    "content.js"
+  ],
+  "u/a9ec89555ad4f1a0.webp": [
+    "content.js"
+  ],
+  "u/ad4b67c915168ef9.jpg": [
+    "content.js"
+  ],
+  "u/b134b8a50b135457.webp": [
+    "content.js"
+  ],
+  "u/b22d14b478278787.webp": [
+    "content.js"
+  ],
+  "u/b5f32a82f618c7ef.jpg": [
+    "content.js"
+  ],
+  "u/bcacb04ae169d077.jpg": [
+    "content.js"
+  ],
+  "u/bea88dc698a45185.jpg": [
+    "content.js"
+  ],
+  "u/c034f14e2b5c83d7.jpg": [
+    "content.js"
+  ],
+  "u/c120ea1fa7f800e7.jpg": [
+    "content.js"
+  ],
+  "u/c2336b49a714b658.jpg": [
+    "content.js"
+  ],
+  "u/c816aae677b3d0dd-t.webp": [
+    "content.js"
+  ],
+  "u/c816aae677b3d0dd.webp": [
+    "content.js"
+  ],
+  "u/c8f794fee648255f.jpg": [
+    "content.js"
+  ],
+  "u/c94f393a4e3449be-t.webp": [
+    "content.js"
+  ],
+  "u/c94f393a4e3449be.webp": [
+    "content.js"
+  ],
+  "u/c966f71d3665ab44-t.webp": [
+    "content.js"
+  ],
+  "u/c966f71d3665ab44.webp": [
+    "content.js"
+  ],
+  "u/ce20df805a9e6055.webp": [
+    "content.js"
+  ],
+  "u/d49346311c1de31a.jpg": [
+    "content.js"
+  ],
+  "u/d55d0eb9a7a04250-t.webp": [
+    "content.js"
+  ],
+  "u/d55d0eb9a7a04250.webp": [
+    "content.js"
+  ],
+  "u/dacbd7473459f969-t.webp": [
+    "content.js"
+  ],
+  "u/dacbd7473459f969.webp": [
+    "content.js"
+  ],
+  "u/dbe3eb8088b12a79-t.webp": [
+    "content.js"
+  ],
+  "u/dbe3eb8088b12a79.webp": [
+    "content.js"
+  ],
+  "u/dd2a6c6a859fce52-t.webp": [
+    "content.js"
+  ],
+  "u/dd2a6c6a859fce52.webp": [
+    "content.js"
+  ],
+  "u/de529bc6fb5c58ab-t.webp": [
+    "content.js"
+  ],
+  "u/de529bc6fb5c58ab.webp": [
+    "content.js"
+  ],
+  "u/e3a3d479e9116c12-t.webp": [
+    "content.js"
+  ],
+  "u/e3a3d479e9116c12.webp": [
+    "content.js"
+  ],
+  "u/e8535a0d0abfbb1c-t.webp": [
+    "content.js"
+  ],
+  "u/e8535a0d0abfbb1c.webp": [
+    "content.js"
+  ],
+  "u/e8f757791003891a.jpg": [
+    "content.js"
+  ],
+  "u/eb9a238883298587-t.webp": [
+    "content.js"
+  ],
+  "u/eb9a238883298587.webp": [
+    "content.js"
+  ],
+  "u/f01b1cad06679dd0-t.webp": [
+    "content.js"
+  ],
+  "u/f01b1cad06679dd0.webp": [
+    "content.js"
+  ],
+  "u/f16711c72fc15a1d.jpg": [
+    "content.js"
+  ],
+  "u/f2cfcd52d3441dec-t.webp": [
+    "content.js"
+  ],
+  "u/f2cfcd52d3441dec.webp": [
+    "content.js"
+  ],
+  "u/f41b103fef5f1397-t.webp": [
+    "content.js"
+  ],
+  "u/f41b103fef5f1397.webp": [
+    "content.js"
+  ],
+  "u/f94762b81f544911-t.webp": [
+    "content.js"
+  ],
+  "u/f94762b81f544911.webp": [
+    "content.js"
+  ],
+  "u/faf707c237cd5c69-t.webp": [
+    "content.js"
+  ],
+  "u/faf707c237cd5c69.webp": [
+    "content.js"
+  ],
+  "u/fb249c0cf9586723.jpg": [
+    "content.js"
+  ],
+  "wall.html": [
+    "tray.html"
+  ]
+}
